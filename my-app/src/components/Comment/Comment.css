@@ -1,0 +1,9 @@
+.comment {
+    width: 60%;
+    height: 10%;
+    justify-content: center;
+    display: flex;
+    border: black solid 3px;
+    margin: 10px;
+    border-radius: 6px;
+}
